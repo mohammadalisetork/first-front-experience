@@ -41,12 +41,16 @@
 }
 .search_form input[type="text"]{
     width: 500px;
-    height: 25px;
+    height: 25px        ;
 
 }
 .google_tag {
     color : white ;
     margin-top: 200px;
+    margin-bottom: 1px;
     font-size: 72px;
     text-align:center;
+}
+.google_tag span {
+    letter-spacing: -20px;
 }
