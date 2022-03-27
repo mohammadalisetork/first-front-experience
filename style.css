@@ -1,10 +1,13 @@
 .body {
     background-color:white 
 }
-ul.nav_ul {
+.header_nav{
+    text-align:right;
+}
+.header_nav ul {
     padding : 0;
 }
-.nav_ul li {
+.header_nav li {
     display: inline-block;
     margin-right: 10px;
 }
