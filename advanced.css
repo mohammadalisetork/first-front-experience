@@ -38,6 +38,9 @@
     margin-right: 0px;;
     padding : 10px;
 }
+.search_form input[type="text"] {
+    direction : ltr;
+}
 .search_form input[type="text"]:not(:nth-last-child(3)){
     width: 500px;
     height: 25px;
